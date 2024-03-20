@@ -1,0 +1,6 @@
+@ETR.Infra.EagleEye.API2_HostAddress = http://localhost:5042
+
+GET {{ETR.Infra.EagleEye.API2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
